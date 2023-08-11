@@ -1,0 +1,140 @@
+The human models in this project have been created with Vroid Studio. Please note that the Vroid license information that is provided herein is an English translation of the Japanese original for the purpose of reference. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail. Full license information can be found at https://policies.pixiv.net/en.html#vroidstudio if you wish to view the most recent version, or if the information has been updated following the inclusion of the license terms in this reference document. The terms as of this document's preparation are as follows:
+
+Article 1: Introduction
+These Individual Terms of Use apply to all acts involving use of “VRoid Studio” (“Software”) and related websites, software, applications, products, documents and all other merchandise and services (“Individual Services”) provided by the Company to Users in connection therewith.
+These Individual Terms of Use set forth the conditions of use of the Individual Services. Users shall consent to these Individual Terms of Use and use the Individual Services in accordance herewith.
+These Individual Terms of Use is the individual Terms of Use of pixiv services' Master Terms of Use ("Master Terms of Use") provided by the Company. In cases of unspecified matter in the Individual Terms of Use, unless specified to exclude application of the term in the Individual Terms of Use, the Master Terms of Use or other suggested guidelines or terms and conditions by individual services ("Terms and Conditions") shall be applied.
+Users will be deemed to have consented to all of the particulars set forth in the pixiv Master Terms of Use, these Individual Terms of Use and related guidelines (Collectively “Terms etc.”) at the point in time that they click on the download button provided on this site.
+Users cannot use the Individual Services unless they consent to these Terms etc.
+Article 2: Definitions
+“Software” means all computer programs and data included in the 3D model generation software “VRoid Studio”.
+“Site” means the website entitled “VRoid (https://vroid.pixiv.net)” operated by the Company.
+“Client PC” means any computer on which the Software is installed.
+“User” means individuals and corporations that have agreed to the Terms etc. and installed Software on Client PCs.
+“Output Item” means items outputted of data related to avatars, items, and other 3D models created using the Software with agreement to these Individual Terms of Use.
+“Provided Content” means content provided by the Company on VRoid Studio, including provided meshes such as model bodies (shapes of 3D models), and provided textures (images used for outer appearance of 3D models).
+“Associated Services” means associated websites other than the Site (VRoid Hub – https://vroidhub.com/; VRoid Market – https://vroidmarket.com/) which are operated by the Company and utilize the “pixiv” membership functions.
+Article 3: Usage Rights and Fees
+Users are entitled to install and use Software on Client PCs that they personally own.
+The Individual Services are free of charge.
+Article 4: Duplication
+Users are entitled to produce duplicates of Software generally only for backup purposes for such User itself.
+Notwithstanding the preceding paragraph, only with separate prior written consent of the Company, Users may duplicate the Software for the purpose of distribution the duplicates of the Software to unspecified others.
+Unless otherwise specified, Users shall not produce duplicates of the Software for any purposes or in any manners other than specified in preceding two paragraphs.
+Article 5: Prohibited Acts
+Users may not engage in the acts indicated in any of the following items when using Software. In cases where a User has engaged in an act falling under any of the following or act that may cause such act (hereinafter collectively referred to as “Prohibited Act”), regardless of whether the act arose through willful misconduct or negligence, the Company shall be entitled to deem said act as a violation, and may rescind the usage rights of, or may delete, alter or adopt other disadvantageous measures or other measures deemed necessary by the Company in respect of all or some Software-related data against, the User who committed the Prohibited Act.
+
+Acts that the Company judges to violate laws/regulations, public order and morality, or these Individual Terms of Use or other conditions of use etc., or to infringe the rights of others;
+Duplicating Individual Services or Software for the purposes of selling the same to third parties;
+Distributing or otherwise providing Individual Services or Software to third parties without Company approval, regardless of whether done for a fee or without charge;
+Reverse engineering, decompiling, reverse assembling or otherwise analyzing Individual Services or Software in whole or in part;
+Modifying or eliminating Individual Services or Software in whole or in part;
+Engaging in use of Individual Services or Software for purposes other than the creation of Output Item, unless in any of the following cases.
+Use of Software at an educational institution by teaching staff or student for educational purposes
+Use of Software with purpose of sharing production process of the Output Item or usage of Individual Services or Software to the public
+Use of Software to confirm the normal mechanical operation of illustrating tablets, PC, and the like on sale with the Software (For promotional purpose of the mechanical products).
+Any other situations specifically permitted by the Company.
+Transferring, lending or licensing Software to third parties.
+Using Provided Content, or 3D models or Output Items containing Provided Content, to create applications having functions that allow avatars, items, or other 3D models to be created by deforming meshes or combining meshes or textures; provided, however, that this does not apply when the User is creating the application for personal use
+Acts that are prohibited in Article 14 of pixiv Master Terms of Use or related guidelines.
+Article 6: Upgrades and Suspension of Provision etc.
+The Company may modify or improve Individual Services without advance notification.
+Unless notified or Individual Terms of Use being modified by the Company, the use of modified or improved Individual Services shall be free of charge.
+The Company is entitled to alter the contents of or the method of provision of Individual Service; or, temporarily suspend or discontinue the provision of Individual Services Software at any time without notice to Users if the Company judges such action necessary.
+Article 7: No-Guarantees
+The Company makes no guarantees regarding the following items. The Company is not obligated to eliminate defects etc. relating such items in providing Individual Services to Users.
+the quality, functionality, or suitability for use, of Software;
+a perpetual duty to update, improve, or repair deficiencies in Software;
+that there will not be factual or legal defects (including flaws in regard to safety, reliability, accuracy, completeness, effectiveness, suitability for a particular purpose, security or the like; errors or bugs; and rights infringements) in Individual Services or Software. The Company is not obligated to eliminate such defects in providing Services to Users and that there will not be technical inaccuracies, typographical errors or misprints, or that deficiencies and failures will not occur, with respect to Individual Services or Software;
+the state of provision, accessibility, or state of use, of Individual Services;
+the legality, accuracy or the like of works created by Users and the suitability of works created by Users in relation to the internal rules etc. of the corporations, groups or the like to which such Users belong; or
+that content associated with Individual Services will not contain computer viruses or the like.
+The fact that an external site is linked from information provided in Individual Services shall not imply the existence of any commercial relationship whatsoever between the Company and such external site. Further, external sites linked from Individual Services are not managed or operated by the Company, and the Company shall bear no liability in regard to the lawfulness, morality, reliability or accuracy of the content of such sites or in regard to site changes, updates or the like.
+Users, when using Individual Services or information that has come to their knowledge through Individual Services, must comply with the laws and regulations of the countries and/or regions in which they engage in such use, and the Company shall bear no liability in regard to such Users’ violations of laws or regulations.
+Article 8: Disclaimers
+The Company will make utmost effort to ensure that Individual Services are beneficial to all Users, but the Company’s liability to Users shall be limited to managing Individual Services, through reasonable efforts, to ensure that Users can use Services without any trouble.
+The Company shall be exempt from providing compensation or indemnification to Users for any damage, loss or other expenses suffered in conjunction with the following items and shall bear no liability to Users regardless of whether the relevant damage etc. was direct or indirect and regardless of whether the relevant damage etc. could have been foreseen:
+the use of Individual Services or Software, or inability to use Individual Services or Software (including improved/modified Software; hereinafter the same);
+In cases where the Company has terminated the Site or Software, any addition to or modification, discontinuation or termination of Software;
+the devices, communication lines and software etc. used by Users;
+mistakes occurring in the course of Users’ use of Individual Services;
+any defect, temporary suspension, partial deletion, modification or termination in/of the content of Individual Services;
+any disputes etc. between Users or between Users and other third parties that arise as a result of use of Individual Services; or
+the items prescribed in Article 7 regarding which the Company makes no guarantees.
+The Company will bear no liability for any disputes or other issues that arise in conjunction with communications, activities or transactions between Users and/or other third parties. In the event that a dispute has arisen between Users, said dispute shall be resolved between the relevant Users, and the Company will have no involvement whatsoever. When in cases that resulted in damage of the Company due to a dispute, all expense including legal expense etc. shall be paid by the person concerned by joint and several obligation.
+The paragraph 11 of Article 24 of pixiv Master Terms of Use shall apply to Individual Services and these Individual Terms.
+Article 9: Ownership of Intellectual Property Rights
+All Intellectual Property Rights and other rights to Software, information associated therewith, websites, products, programs, applications, logos, documents and other merchandise etc. will belong to the Company.
+All Intellectual Property Rights and other rights to avatars, items, and other 3D models created using Software will belong to the Users that created such models; provided, however, that when such a model includes copyrighted works or other intellectual property etc. of the Company or third parties, such copyrighted works or other intellectual property etc. will belong to the Company or such third parties.
+When a model of the preceding paragraph contains copyrighted works or other intellectual property etc. for which rights are assigned to someone other than the User that created such model (including Provided Content, Software, and all other data provided by the Company), the User shall appropriately follow the licenses and other conditions of use imposed on use of such copyrighted works, and the Company will not be held liable for any adversity suffered as a result of any breach of such licenses etc.
+Article 10: Scope of Use of Output Items
+Users will be licensed to use Output Items for any purpose, as long as they do not breach the license conditions specified for any Provided Content used in 3D models created using Software.
+Users will be licensed to set licenses freely for VRM data constituting Output Items, as long as they do not breach the license conditions for Provided Content used in 3D models created using the Software.
+Notwithstanding the provisions of the preceding two paragraphs, when an Output Item includes copyrighted works or other intellectual property etc. for which rights are assigned to someone other than the User that created the relevant 3D model, the User shall appropriately follow the licenses etc. of such copyrighted works etc., and the Company will not be held liable for any adversity suffered of Users as a result of any breach of such licenses etc.
+Article 11: License Conditions and Restrictions on Provided Content
+The Company will grant Users a non-exclusive, perpetual, worldwide, non-transferable, non-sublicensable license to use, duplicate, archive, modify, and display Provided Content, subject to restrictions common to all licenses, for (1) any purpose and (2) any use, except where different license conditions are specified and displayed for individual items of Provided Content.
+Where the Company has specified and displayed license conditions for individual items of Provided Content, Users will use such Provided Content in accordance therewith.
+Notwithstanding the provisions of the preceding two paragraphs, Users are not licensed to use Provided Content, or 3D models or Output Items containing Provided Content, to create applications having functions that allow avatars, items, or other 3D models to be created by deforming meshes or combining meshes or textures. When a User wishes to create an application containing such a function, they must receive a separate license from the Company; provided, however, that this does not apply when the User is creating the application for personal use.
+Article 12: Open-Source Software
+Notwithstanding the provisions of these Terms, open-source software set forth separately will be licensed to Users in accordance with the respective licensing terms applicable to such software.
+
+Article 13: Revocation of Usage Rights
+If a User breaches these Individual Terms of Use, the Company is entitled to revoke such User’s right to use Software.
+In cases where the Company has revoked the right to use Software, the relevant User shall promptly cease use of Software and promptly delete Software and all duplicates thereof.
+Supplementary Provisions
+These Individual Terms of Use will come into effect on July 31, 2018.
+Conducts done before enforcement of the Individual Terms of Use are also applied to this Individual Terms of Use.
+
+
+As for the source code, the Apache License (version 2.0) applies to its contributions and use by other developers as follows:
+
+1. Definitions.
+“License” shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+
+“Licensor” shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+“Legal Entity” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+“You” (or “Your”) shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+“Source” form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+“Object” form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+“Work” shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+“Derivative Works” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+“Contribution” shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, “submitted” means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as “Not a Contribution.”
+
+“Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License.
+Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution.
+You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+You must give any other recipients of the Work or Derivative Works a copy of this License; and
+You must cause any modified files to carry prominent notices stating that You changed the files; and
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+If the Work includes a “NOTICE” text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+5. Submission of Contributions.
+Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+6. Trademarks.
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty.
+Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability.
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability.
+While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
